@@ -1,0 +1,8 @@
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\bin\Debug\tiposprimitivos.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\bin\Debug\tiposprimitivos.exe
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\bin\Debug\tiposprimitivos.pdb
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\obj\Debug\tiposprimitivos.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\obj\Debug\tiposprimitivos.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\obj\Debug\tiposprimitivos.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\obj\Debug\tiposprimitivos.exe
+D:\david\Documentos\GitHub\cursoDotnet\tiposprimitivos\obj\Debug\tiposprimitivos.pdb

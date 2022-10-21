@@ -1,0 +1,6 @@
+D:\david\Documentos\GitHub\cursoDotnet\gac\bin\Debug\gac.dll
+D:\david\Documentos\GitHub\cursoDotnet\gac\bin\Debug\gac.pdb
+D:\david\Documentos\GitHub\cursoDotnet\gac\obj\Debug\gac.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\gac\obj\Debug\gac.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\gac\obj\Debug\gac.dll
+D:\david\Documentos\GitHub\cursoDotnet\gac\obj\Debug\gac.pdb

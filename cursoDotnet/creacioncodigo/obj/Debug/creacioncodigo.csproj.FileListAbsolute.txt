@@ -1,0 +1,9 @@
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\bin\Debug\creacioncodigo.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\bin\Debug\creacioncodigo.exe
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\bin\Debug\creacioncodigo.pdb
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\obj\Debug\creacioncodigo.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\obj\Debug\creacioncodigo.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\obj\Debug\creacioncodigo.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\obj\Debug\creacioncodigo.exe
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\obj\Debug\creacioncodigo.pdb
+D:\david\Documentos\GitHub\cursoDotnet\creacioncodigo\obj\Debug\creacioncodigo.csproj.CopyComplete

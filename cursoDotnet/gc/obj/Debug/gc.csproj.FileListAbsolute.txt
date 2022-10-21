@@ -1,0 +1,8 @@
+D:\david\Documentos\GitHub\cursoDotnet\gc\bin\Debug\gc.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\gc\bin\Debug\gc.exe
+D:\david\Documentos\GitHub\cursoDotnet\gc\bin\Debug\gc.pdb
+D:\david\Documentos\GitHub\cursoDotnet\gc\obj\Debug\gc.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\gc\obj\Debug\gc.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\gc\obj\Debug\gc.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\gc\obj\Debug\gc.exe
+D:\david\Documentos\GitHub\cursoDotnet\gc\obj\Debug\gc.pdb

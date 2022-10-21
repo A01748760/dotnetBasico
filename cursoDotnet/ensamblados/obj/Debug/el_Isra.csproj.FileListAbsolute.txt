@@ -1,0 +1,11 @@
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\bin\Debug\ensamblados.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\bin\Debug\ensamblados.exe
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\bin\Debug\ensamblados.pdb
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\bin\Debug\logica.dll
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\bin\Debug\logica.pdb
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\obj\Debug\el_Isra.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\obj\Debug\el_Isra.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\obj\Debug\el_Isra.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\obj\Debug\el_Isra.csproj.CopyComplete
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\obj\Debug\ensamblados.exe
+D:\david\Documentos\GitHub\cursoDotnet\ensamblados\obj\Debug\ensamblados.pdb

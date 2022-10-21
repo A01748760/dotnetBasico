@@ -1,0 +1,6 @@
+D:\david\Documentos\GitHub\cursoDotnet\logica\bin\Debug\logica.dll
+D:\david\Documentos\GitHub\cursoDotnet\logica\bin\Debug\logica.pdb
+D:\david\Documentos\GitHub\cursoDotnet\logica\obj\Debug\logica.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\logica\obj\Debug\logica.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\logica\obj\Debug\logica.dll
+D:\david\Documentos\GitHub\cursoDotnet\logica\obj\Debug\logica.pdb

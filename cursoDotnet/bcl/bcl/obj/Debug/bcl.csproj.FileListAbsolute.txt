@@ -1,0 +1,8 @@
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\bin\Debug\bcl.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\bin\Debug\bcl.exe
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\bin\Debug\bcl.pdb
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\obj\Debug\bcl.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\obj\Debug\bcl.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\obj\Debug\bcl.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\obj\Debug\bcl.exe
+D:\david\Documentos\GitHub\cursoDotnet\bcl\bcl\obj\Debug\bcl.pdb

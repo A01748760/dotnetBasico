@@ -1,0 +1,8 @@
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\bin\Debug\cargadinamicaensamblados.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\bin\Debug\cargadinamicaensamblados.exe
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\bin\Debug\cargadinamicaensamblados.pdb
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\obj\Debug\cargadinamicaensamblados.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\obj\Debug\cargadinamicaensamblados.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\obj\Debug\cargadinamicaensamblados.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\obj\Debug\cargadinamicaensamblados.exe
+D:\david\Documentos\GitHub\cursoDotnet\cargadinamicaensamblados\obj\Debug\cargadinamicaensamblados.pdb

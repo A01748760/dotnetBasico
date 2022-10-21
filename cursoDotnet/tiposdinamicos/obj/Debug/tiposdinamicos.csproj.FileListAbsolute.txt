@@ -1,0 +1,8 @@
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\bin\Debug\tiposdinamicos.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\bin\Debug\tiposdinamicos.exe
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\bin\Debug\tiposdinamicos.pdb
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\obj\Debug\tiposdinamicos.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\obj\Debug\tiposdinamicos.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\obj\Debug\tiposdinamicos.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\obj\Debug\tiposdinamicos.exe
+D:\david\Documentos\GitHub\cursoDotnet\tiposdinamicos\obj\Debug\tiposdinamicos.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ensamblados", "ensamblados.csproj", "{CFE43CA5-6111-4645-8DA3-54AE7BE7CD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logica", "..\logica\logica.csproj", "{E5549295-F3F4-42C3-B63A-8391F46F08AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE43CA5-6111-4645-8DA3-54AE7BE7CD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE43CA5-6111-4645-8DA3-54AE7BE7CD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE43CA5-6111-4645-8DA3-54AE7BE7CD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE43CA5-6111-4645-8DA3-54AE7BE7CD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5549295-F3F4-42C3-B63A-8391F46F08AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5549295-F3F4-42C3-B63A-8391F46F08AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5549295-F3F4-42C3-B63A-8391F46F08AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5549295-F3F4-42C3-B63A-8391F46F08AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F25007-1A98-4600-A7CE-DB0A841F9161}
+	EndGlobalSection
+EndGlobal

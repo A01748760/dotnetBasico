@@ -1,0 +1,8 @@
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\bin\Debug\inspecciontipos.exe.config
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\bin\Debug\inspecciontipos.exe
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\bin\Debug\inspecciontipos.pdb
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\obj\Debug\inspecciontipos.csproj.AssemblyReference.cache
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\obj\Debug\inspecciontipos.csproj.SuggestedBindingRedirects.cache
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\obj\Debug\inspecciontipos.csproj.CoreCompileInputs.cache
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\obj\Debug\inspecciontipos.exe
+D:\david\Documentos\GitHub\cursoDotnet\inspecciontipos\obj\Debug\inspecciontipos.pdb
